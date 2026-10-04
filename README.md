@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Beast-Viper 👋</h1>
+<h1 align="center">Hey there, I'm Beast-Viper</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Mechanical%20Engineering-blue?style=flat-square" alt="Mechanical Engineering" />
   <img src="https://komarev.com/ghpvc/?username=Beast-Viper&style=flat-square&color=brightgreen" alt="Profile Views" />
@@ -6,23 +6,23 @@
 
 ---
 
-### 👤 About Me
+###  About Me
 
-- 🎓 **Undergraduate Mechanical Engineering Student**
-- 💡 Passionate about computer customization (Hyprland, ricing, theming)
-- 🎧 Audiophile equipment enthusiast
-- 🎨 CSS tinkerer & Neovim user
-- 🕹️ Half-Life fan
+-  **Undergraduate Mechanical Engineering Student**
+-  Passionate about computer customization (Hyprland, ricing, theming)
+-  Audiophile equipment enthusiast
+-  CSS tinkerer & Neovim user
+-  Half-Life fan
 
 ---
 
-### 🔗 Social
+###  Social
 
 - Reddit: [u/Beast_Viper_007](https://www.reddit.com/user/Beast_Viper_007)
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - [**ViperDots-Hyprland**](https://github.com/Beast-Viper/ViperDots-Hyprland): My personal Hyprland dotfiles—minimalist, colorful, and highly customizable.
 - [**WhiteSur-gtk-theme**](https://github.com/Beast-Viper/WhiteSur-gtk-theme): A clean, macOS-inspired GTK theme for Linux desktops.
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Tools & Tech
+###  Tools & Tech
 
 - **Languages:** CSS, basic scripting
 - **Editor:** Neovim
